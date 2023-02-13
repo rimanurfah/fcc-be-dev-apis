@@ -1,5 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Rima Nurkholifah",
+	"description": "A project to learn backend and APIS",
+	"keywords": ["freecodecamp", "learn", "API", "backend"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
